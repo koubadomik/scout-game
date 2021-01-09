@@ -1,0 +1,11 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <title>Skautská hra</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1>Vítejte ve skautské hře :)</h1>
+  <script src="js/script.js"></script>
+</body>
+</html>
