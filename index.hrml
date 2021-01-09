@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8">
   <title>Skautská hra</title>
-  <link rel="stylesheet" href="css/styles.css">
+  <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
   <h1>Vítejte ve skautské hře :)</h1>
