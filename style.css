@@ -63,6 +63,8 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  border: 1px solid gray;
+  border-radius: 3%;
 }
 
 img {
